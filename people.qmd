@@ -1,0 +1,36 @@
+---
+title: "People"
+---
+
+## Directors / Principal Investigatiors 
+
+- [Mine Dogucu](https://www.minedogucu.com/); Assistant Professor of Teaching Statistics, University of California Irvine 
+
+- [Jingchen (Monika) Hu](https://pages.vassar.edu/jihu/); Associate Professor of Mathematics and Statistics, Vassar College
+
+- [Amy Herring](https://scholars.duke.edu/person/Amy.Herring); Sara and Charles Ayres Distinguished Professor of Statistical Science, Duke University 
+
+
+## Advisory Board
+
+- Andrew Gelman; Professor of Statistics and Political Science, Columbia University
+- Donna LaLonda; Director Strategic Initiatives and Outreach, American Statistical Association
+- Regina Nuzzo; Professor of Statistics, Gallaudet University
+- Donatello Telesca; Professor of Biostatistics, University of California Los Angeles
+
+
+## Participating Faculty
+
+- Ming-Wen An; Associate Professor of Mathematics and Statistics, Vassar 
+- Josh de Leeuw; Assistant Professor of Cognitive Science, Vassar 
+- David Dunson; Professor of Statistical Science, Mathematics and Electrical & Computer Engineering, Duke University 
+- Matthew Harding; Professor of Economics and Statistics, UCI 
+- Lee Kennedy-Shafer; Assistant Professor Mathematics and Statistics, Vassar 
+- Colette Salyk; Assistant Professor of Astronomy, Vassar 
+- Babak Shahbaba; Professor of Statistics and Computer Science, UCI 
+- Joachim Vandekerckhove; Professor of Cognitive Sciences and Statistics, UCI 
+- Allison Horst; Assistant Teaching Professor, University of California Santa Barbara 
+- Alicia Johnson; Associate Professor of Statistics, Macalester College 
+- Joshua Rosenberg; Assistant Professor of STEM education, University of Tennessee 
+- Uroš Seljak; Professor of Physics and Astronomy, University of California Berkeley 
+- Xin (Cynthia) Tong; Associate Professor of Psychology, University of Virginia 

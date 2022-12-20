@@ -1,0 +1,32 @@
+---
+title: "Bayes BATS"
+---
+
+```{r}
+#| echo: FALSE
+#| out.width: 50%
+#| fig.alt: "A hex logo colored yellow with maroon border. The logo reads Bayes BATS and has a bat icon."
+#| fig.align: center
+knitr::include_graphics("img/logo.png")
+```
+
+
+Our goal is to advance **Ba**yesian **T**hinking in **S**TEM, hence the name **BATS**.
+
+BATS is a three-tiered program
+
+- The first tier of the program consists of a **week-long instructor training bootcamp** (on the west coast at University of California Irvine in Summer 2023, and on the east coast at Vassar College in Summer 2024), to build a diverse community of Bayesian educators across different STEM fields.
+
+- In the second tier of the project, selected **instructors will develop Bayesian teaching and learning materials** specifically using scientific data from their fields with the support of the PIs, during the fall semester after their summer boot camp training participation. 
+
+- In the third tier of the project, selected **instructors will disseminate the teaching and learning materials** through conferences and publications with the support of the PIs. 
+
+---
+
+The BATS Project Objectives are as follows:
+
+- Increase the number of undergraduate students who are exposed to Bayesian methods; 
+
+- Enhance the capacity of STEM instructors in Bayesian methods through training and community building; 
+
+- Develop and enrich teaching and learning materials that showcase use of Bayesian methods in STEM fields. 

@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  title: "Bayes BATS"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: bootcamp.qmd
+        text: Bootcamp
+      - href: materials.qmd
+        text: Developing Materials
+      - href: dissemination.qmd
+        text: Dissemination
+      - href: people.qmd
+        text: People
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

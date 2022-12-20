@@ -1,0 +1,33 @@
+---
+title: "Course Materials Development"
+---
+
+```{r}
+#| echo: FALSE
+#| out.width: 50%
+#| fig.alt: "A hex logo colored yellow with maroon border. The logo reads Bayes BATS and has a bat icon."
+#| fig.align: center
+knitr::include_graphics("img/logo.png")
+```
+
+
+## BATS Bootcamp in Summer 2023
+
+**Dates**: July 10 - 14, 2023
+**Location**: University of California Irvine
+
+**Expected number of participants**: 20
+
+**Application details**: The application form will be shared here in early 2023
+
+---
+
+## BATS Bootcamp in Summer 2024
+
+**Dates**: tentatively July 2024
+
+**Location**: Vassar College, Poughkeepsie, NY
+
+**Expected number of participants**: 20
+
+**Application details**: The application form will be shared here in early 2024

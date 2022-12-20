@@ -1,0 +1,9 @@
+---
+title: "Course Materials Development"
+---
+
+About ten instructors **who attend the bootcamp** will be selected to develop course materials in the Fall semester. They will be engaged in a semester-long collaborative endeavor to develop teaching and learning materials of Bayesian methods for undergraduate students in their disciplines that are at public dissemination quality. Instructors of similar STEM disciplines will be teamed up, and each team is mentored by one of the PIs. Depending on the instructor’s objective and their plan of introducing Bayesian methods in their undergraduate curriculum, we expect some to develop a **Bayesian module** to be part of an existing course while others to develop a **full Bayesian course** as part of their curriculum offerings. 
+
+Instructors selected to participate in course material development will be compensated with $1,500 each for their time and effort.
+More information on the selection process of the instructors will be shared at a later date. 
+

@@ -1,0 +1,32 @@
+/* css styles */
+
+.content-block {
+  padding-top: 20px;
+  padding-bottom: 10px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.navbar-bg {
+  background-color: #00539B;
+}
+
+.navbar{
+  background-color: #00539B;
+}
+
+.navbar-title, .menu-text{
+  color:whitesmoke;
+
+}
+
+a{
+  color: #951829;
+}
+
+
+
+
+
+
+
