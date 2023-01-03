@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.237">
+<meta name="generator" content="quarto-1.1.251">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Bayes BATS - Course Materials Development</title>
+<title>Bayes BATS - Dissemination</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -80,24 +80,19 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html">
- <span class="menu-text">Home</span></a>
+    <a class="nav-link" href="./index.html">Home</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./bootcamp.html">
- <span class="menu-text">Bootcamp</span></a>
+    <a class="nav-link" href="./bootcamp.html">Bootcamp</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./materials.html" aria-current="page">
- <span class="menu-text">Developing Materials</span></a>
+    <a class="nav-link" href="./materials.html">Developing Materials</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./dissemination.html">
- <span class="menu-text">Dissemination</span></a>
+    <a class="nav-link active" href="./dissemination.html" aria-current="page">Dissemination</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./people.html">
- <span class="menu-text">People</span></a>
+    <a class="nav-link" href="./people.html">People</a>
   </li>  
 </ul>
               <div id="quarto-search" class="" title="Search"></div>
@@ -117,7 +112,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Course Materials Development</h1>
+<h1 class="title">Dissemination</h1>
 </div>
 
 
@@ -125,15 +120,16 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-title-meta">
 
     
-  
     
   </div>
   
 
 </header>
 
-<p>About ten instructors <strong>who attend the bootcamp</strong> will be selected to develop course materials in the Fall semester. They will be engaged in a semester-long collaborative endeavor to develop teaching and learning materials of Bayesian methods for undergraduate students in their disciplines that are at public dissemination quality. Instructors of similar STEM disciplines will be teamed up, and each team is mentored by one of the PIs. Depending on the instructor’s objective and their plan of introducing Bayesian methods in their undergraduate curriculum, we expect some to develop a <strong>Bayesian module</strong> to be part of an existing course while others to develop a <strong>full Bayesian course</strong> as part of their curriculum offerings.</p>
-<p>Instructors selected to participate in course material development will be compensated with $1,500 each for their time and effort. More information on the selection process of the instructors will be shared at a later date.</p>
+<p>We would like the teaching materials developed by BATS instructors to reach a wider audience beyond their own students. We would like these resources to be adopted by their colleagues in their STEM fields.</p>
+<p>We expect to support about five instructors each year in writing pedagogical papers and/or giving conference talks within their scientific discipline community, introducing their developed materials as well as discussing Bayesian pedagogy.</p>
+<p>We expect these efforts to be aimed at more pedagogy-focused channels such as journals and conferences focusing on science education.</p>
+<p>Instructors selected for the dissemination group will be supported with $2,000 each to disseminate their work at national conferences and/or with open-access publications.</p>
 
 
 
@@ -179,24 +175,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
     button.setAttribute("title", "Copied!");
-    let tooltip;
-    if (window.bootstrap) {
-      button.setAttribute("data-bs-toggle", "tooltip");
-      button.setAttribute("data-bs-placement", "left");
-      button.setAttribute("data-bs-title", "Copied!");
-      tooltip = new bootstrap.Tooltip(button, 
-        { trigger: "manual", 
-          customClass: "code-copy-button-tooltip",
-          offset: [0, -8]});
-      tooltip.show();    
-    }
     setTimeout(function() {
-      if (tooltip) {
-        tooltip.hide();
-        button.removeAttribute("data-bs-title");
-        button.removeAttribute("data-bs-toggle");
-        button.removeAttribute("data-bs-placement");
-      }
       button.setAttribute("title", currentTitle);
       button.classList.remove('code-copy-button-checked');
     }, 1000);
@@ -232,42 +211,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
-  const findCites = (el) => {
-    const parentEl = el.parentElement;
-    if (parentEl) {
-      const cites = parentEl.dataset.cites;
-      if (cites) {
-        return {
-          el,
-          cites: cites.split(' ')
-        };
-      } else {
-        return findCites(el.parentElement)
-      }
-    } else {
-      return undefined;
-    }
-  };
   var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
   for (var i=0; i<bibliorefs.length; i++) {
     const ref = bibliorefs[i];
-    const citeInfo = findCites(ref);
-    if (citeInfo) {
-      tippyHover(citeInfo.el, function() {
-        var popup = window.document.createElement('div');
-        citeInfo.cites.forEach(function(cite) {
-          var citeDiv = window.document.createElement('div');
-          citeDiv.classList.add('hanging-indent');
-          citeDiv.classList.add('csl-entry');
-          var biblioDiv = window.document.getElementById('ref-' + cite);
-          if (biblioDiv) {
-            citeDiv.innerHTML = biblioDiv.innerHTML;
-          }
-          popup.appendChild(citeDiv);
-        });
-        return popup.innerHTML;
+    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
+    tippyHover(ref, function() {
+      var popup = window.document.createElement('div');
+      cites.forEach(function(cite) {
+        var citeDiv = window.document.createElement('div');
+        citeDiv.classList.add('hanging-indent');
+        citeDiv.classList.add('csl-entry');
+        var biblioDiv = window.document.getElementById('ref-' + cite);
+        if (biblioDiv) {
+          citeDiv.innerHTML = biblioDiv.innerHTML;
+        }
+        popup.appendChild(citeDiv);
       });
-    }
+      return popup.innerHTML;
+    });
   }
 });
 </script>
