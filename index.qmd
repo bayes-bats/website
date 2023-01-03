@@ -33,6 +33,6 @@ The BATS Project Objectives are as follows:
 
 ---
 
-## Funding
+**Funding**
 
 BATS program is supported by [NSF IUSE: EHR program](https://www.nsf.gov/pubs/2021/nsf21579/nsf21579.htm) with award numbers 2215879, 2215920, and 2215709.
