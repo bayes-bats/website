@@ -14,7 +14,7 @@ title: "People"
 ## Advisory Board
 
 - Andrew Gelman; Professor of Statistics and Political Science, Columbia University
-- Donna LaLonda; Director Strategic Initiatives and Outreach, American Statistical Association
+- Donna LaLonde; Director Strategic Initiatives and Outreach, American Statistical Association
 - Regina Nuzzo; Professor of Statistics, Gallaudet University
 - Donatello Telesca; Professor of Biostatistics, University of California Los Angeles
 
