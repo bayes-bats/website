@@ -34,3 +34,8 @@ title: "People"
 - Joshua Rosenberg; Assistant Professor of STEM education, University of Tennessee 
 - Uroš Seljak; Professor of Physics and Astronomy, University of California Berkeley 
 - Xin (Cynthia) Tong; Associate Professor of Psychology, University of Virginia 
+
+## Graduate Student Researchers
+
+- [Federica Zoe Ricci](https://federicazoe.github.io/); PhD Student, University of California Irvine
+
