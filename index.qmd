@@ -7,7 +7,7 @@ title: "Bayes BATS"
 #| out.width: 50%
 #| fig.alt: "A hex logo colored yellow with maroon border. The logo reads Bayes BATS and has a bat icon."
 #| fig.align: center
-knitr::include_graphics("img/logo.png")
+knitr::include_graphics("img/logo-new.png")
 ```
 
 

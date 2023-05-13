@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Bayes BATS",
-    "section": "",
-    "text": "Our goal is to advance Bayesian Thinking in STEM, hence the name BATS.\nBATS is a three-tiered program\n\nThe first tier of the program consists of a week-long instructor training bootcamp (on the west coast at University of California Irvine in Summer 2023, and on the east coast at Vassar College in Summer 2024), to build a diverse community of Bayesian educators across different STEM fields.\nIn the second tier of the project, selected instructors will develop Bayesian teaching and learning materials specifically using scientific data from their fields with the support of the PIs, during the fall semester after their summer boot camp training participation.\nIn the third tier of the project, selected instructors will disseminate the teaching and learning materials through conferences and publications with the support of the PIs.\n\n\nThe BATS Project Objectives are as follows:\n\nIncrease the number of undergraduate students who are exposed to Bayesian methods;\nEnhance the capacity of STEM instructors in Bayesian methods through training and community building;\nDevelop and enrich teaching and learning materials that showcase use of Bayesian methods in STEM fields.\n\n\nFunding\nBATS program is supported by NSF IUSE: EHR program with award numbers 2215879, 2215920, and 2215709."
-  },
-  {
     "objectID": "bootcamp.html",
     "href": "bootcamp.html",
     "title": "Bootcamps",
     "section": "",
-    "text": "Dates: July 10 - 14, 2023\nLocation: University of California Irvine\nExpected number of participants: 20\nFunding: All bootcamp participants (20) will be supported with a stipend of $2,000 each to offset costs of traveling to and accommodation during the boot camp.\nApplication details: The application form can be accessed at this link. Applications are due February 15, 2023. Applications are only open to US citizens and permanent residents.\nQuestions can be addressed to Mine Dogucu at mdogucu@uci.edu"
+    "text": "Dates: July 10 - 14, 2023\nLocation: University of California Irvine\nExpected number of participants: 20\nFunding: All bootcamp participants (20) will be supported with a stipend of $2,000 each to offset costs of traveling to and accommodation during the boot camp.\nApplication details: The application form can be accessed at this link. Applications are due February 15, 2023. Applications are only open to US citizens and permanent residents.\nQuestions can be addressed to Mine Dogucu at mdogucu@uci.edu."
   },
   {
     "objectID": "bootcamp.html#bats-bootcamp-in-summer-2024",
@@ -21,11 +14,18 @@
     "text": "BATS Bootcamp in Summer 2024\nDates: tentatively July 2024\nLocation: Vassar College, Poughkeepsie, NY\nExpected number of participants: 20\nApplication details: The application form will be shared here in early 2024"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bayes BATS",
+    "section": "",
+    "text": "Our goal is to advance Bayesian Thinking in STEM, hence the name BATS.\nBATS is a three-tiered program\n\nThe first tier of the program consists of a week-long instructor training bootcamp (on the west coast at University of California Irvine in Summer 2023, and on the east coast at Vassar College in Summer 2024), to build a diverse community of Bayesian educators across different STEM fields.\nIn the second tier of the project, selected instructors will develop Bayesian teaching and learning materials specifically using scientific data from their fields with the support of the PIs, during the fall semester after their summer boot camp training participation.\nIn the third tier of the project, selected instructors will disseminate the teaching and learning materials through conferences and publications with the support of the PIs.\n\n\nThe BATS Project Objectives are as follows:\n\nIncrease the number of undergraduate students who are exposed to Bayesian methods;\nEnhance the capacity of STEM instructors in Bayesian methods through training and community building;\nDevelop and enrich teaching and learning materials that showcase use of Bayesian methods in STEM fields.\n\n\nFunding\nBATS program is supported by NSF IUSE: EHR program with award numbers 2215879, 2215920, and 2215709."
+  },
+  {
     "objectID": "dissemination.html",
     "href": "dissemination.html",
     "title": "Dissemination",
     "section": "",
-    "text": "We expect to support about five instructors each year in writing pedagogical papers and/or giving conference talks within their scientific discipline community, introducing their developed materials as well as discussing Bayesian pedagogy.\nWe expect these efforts to be aimed at more pedagogy-focused channels such as journals and conferences focusing on science education.\nInstructors selected for the dissemination group will be supported with $2,000 each to disseminate their work at national conferences and/or with open-access publications."
+    "text": "We would like the teaching materials developed by BATS instructors to reach a wider audience beyond their own students. We would like these resources to be adopted by their colleagues in their STEM fields.\nWe expect to support about five instructors each year in writing pedagogical papers and/or giving conference talks within their scientific discipline community, introducing their developed materials as well as discussing Bayesian pedagogy.\nWe expect these efforts to be aimed at more pedagogy-focused channels such as journals and conferences focusing on science education.\nInstructors selected for the dissemination group will be supported with $2,000 each to disseminate their work at national conferences and/or with open-access publications."
   },
   {
     "objectID": "materials.html",
@@ -54,12 +54,5 @@
     "title": "People",
     "section": "Participating Faculty",
     "text": "Participating Faculty\n\nMing-Wen An; Associate Professor of Mathematics and Statistics, Vassar\nJosh de Leeuw; Assistant Professor of Cognitive Science, Vassar\nDavid Dunson; Professor of Statistical Science, Mathematics and Electrical & Computer Engineering, Duke University\nMatthew Harding; Professor of Economics and Statistics, UCI\nLee Kennedy-Shafer; Assistant Professor Mathematics and Statistics, Vassar\nColette Salyk; Assistant Professor of Astronomy, Vassar\nBabak Shahbaba; Professor of Statistics and Computer Science, UCI\nJoachim Vandekerckhove; Professor of Cognitive Sciences and Statistics, UCI\nAllison Horst; Assistant Teaching Professor, University of California Santa Barbara\nAlicia Johnson; Associate Professor of Statistics, Macalester College\nJoshua Rosenberg; Assistant Professor of STEM education, University of Tennessee\nUroš Seljak; Professor of Physics and Astronomy, University of California Berkeley\nXin (Cynthia) Tong; Associate Professor of Psychology, University of Virginia"
-  },
-  {
-    "objectID": "index.html#funding",
-    "href": "index.html#funding",
-    "title": "Bayes BATS",
-    "section": "Funding",
-    "text": "Funding\nBATS program is supported by NSF IUSE: EHR program with award numbers 2215879, 2215920, and 2215709."
   }
 ]
