@@ -4,6 +4,10 @@ title: "Bootcamps"
 
 ## BATS Bootcamp in Summer 2023
 
+**Schedule:** [link](https://bayes-bats.github.io/bootcamp-material/)
+
+**GitHub organization:** [link](https://github.com/bayes-bats)
+
 **Dates**: July 10 - 14, 2023
 
 **Location**: University of California Irvine
