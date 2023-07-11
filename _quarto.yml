@@ -11,7 +11,7 @@ website:
       - href: bootcamp.qmd
         text: Bootcamp
       - href: materials.qmd
-        text: Developing Materials
+        text: Developing Materials (Tier 2)
       - href: dissemination.qmd
         text: Dissemination
       - href: people.qmd
