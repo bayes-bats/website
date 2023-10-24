@@ -1,68 +1,5 @@
 [
   {
-    "objectID": "bootcamp.html",
-    "href": "bootcamp.html",
-    "title": "Bootcamps",
-    "section": "",
-    "text": "Schedule: link\nGitHub organization: link\nDates: July 10 - 14, 2023\nLocation: University of California Irvine\nExpected number of participants: 20\nFunding: All bootcamp participants (20) will be supported with a stipend of $2,000 each to offset costs of traveling to and accommodation during the boot camp.\nApplication details: The application form can be accessed at this link. Applications are due February 15, 2023. Applications are only open to US citizens and permanent residents.\nQuestions can be addressed to Mine Dogucu at mdogucu@uci.edu."
-  },
-  {
-    "objectID": "bootcamp.html#bats-bootcamp-in-summer-2023",
-    "href": "bootcamp.html#bats-bootcamp-in-summer-2023",
-    "title": "Bootcamps",
-    "section": "",
-    "text": "Schedule: link\nGitHub organization: link\nDates: July 10 - 14, 2023\nLocation: University of California Irvine\nExpected number of participants: 20\nFunding: All bootcamp participants (20) will be supported with a stipend of $2,000 each to offset costs of traveling to and accommodation during the boot camp.\nApplication details: The application form can be accessed at this link. Applications are due February 15, 2023. Applications are only open to US citizens and permanent residents.\nQuestions can be addressed to Mine Dogucu at mdogucu@uci.edu."
-  },
-  {
-    "objectID": "bootcamp.html#bats-bootcamp-in-summer-2024",
-    "href": "bootcamp.html#bats-bootcamp-in-summer-2024",
-    "title": "Bootcamps",
-    "section": "BATS Bootcamp in Summer 2024",
-    "text": "BATS Bootcamp in Summer 2024\nDates: tentatively July 2024\nLocation: Vassar College, Poughkeepsie, NY\nExpected number of participants: 20\nApplication details: The application form will be shared here in early 2024"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Bayes BATS",
-    "section": "",
-    "text": "Our goal is to advance Bayesian Thinking in STEM, hence the name BATS.\nBATS is a three-tiered program\n\nThe first tier of the program consists of a week-long instructor training bootcamp (on the west coast at University of California Irvine in Summer 2023, and on the east coast at Vassar College in Summer 2024), to build a diverse community of Bayesian educators across different STEM fields.\nIn the second tier of the project, selected instructors will develop Bayesian teaching and learning materials specifically using scientific data from their fields with the support of the PIs, during the fall semester after their summer boot camp training participation.\nIn the third tier of the project, selected instructors will disseminate the teaching and learning materials through conferences and publications with the support of the PIs.\n\n\nThe BATS Project Objectives are as follows:\n\nIncrease the number of undergraduate students who are exposed to Bayesian methods;\nEnhance the capacity of STEM instructors in Bayesian methods through training and community building;\nDevelop and enrich teaching and learning materials that showcase use of Bayesian methods in STEM fields.\n\n\nFunding\nBATS program is supported by NSF IUSE: EHR program with award numbers 2215879, 2215920, and 2215709."
-  },
-  {
-    "objectID": "dissemination.html",
-    "href": "dissemination.html",
-    "title": "Dissemination",
-    "section": "",
-    "text": "We would like the teaching materials developed by BATS instructors to reach a wider audience beyond their own students. We would like these resources to be adopted by their colleagues in their STEM fields.\nWe expect to support about five instructors each year in writing pedagogical papers and/or giving conference talks within their scientific discipline community, introducing their developed materials as well as discussing Bayesian pedagogy.\nWe expect these efforts to be aimed at more pedagogy-focused channels such as journals and conferences focusing on science education.\nInstructors selected for the dissemination group will be supported with $2,000 each to disseminate their work at national conferences and/or with open-access publications."
-  },
-  {
-    "objectID": "materials.html",
-    "href": "materials.html",
-    "title": "Course Materials Development (Tier 2)",
-    "section": "",
-    "text": "About ten instructors who attend the bootcamp will be selected to develop course materials in the Fall semester. They will be engaged in a semester-long collaborative endeavor to develop teaching and learning materials of Bayesian methods for undergraduate students in their disciplines that are at public dissemination quality. Instructors of similar STEM disciplines will be teamed up, and each team is mentored by one of the PIs. Depending on the instructor’s objective and their plan of introducing Bayesian methods in their undergraduate curriculum, we expect some to develop a Bayesian module to be part of an existing course while others to develop a full Bayesian course as part of their curriculum offerings."
-  },
-  {
-    "objectID": "materials.html#description",
-    "href": "materials.html#description",
-    "title": "Course Materials Development (Tier 2)",
-    "section": "",
-    "text": "About ten instructors who attend the bootcamp will be selected to develop course materials in the Fall semester. They will be engaged in a semester-long collaborative endeavor to develop teaching and learning materials of Bayesian methods for undergraduate students in their disciplines that are at public dissemination quality. Instructors of similar STEM disciplines will be teamed up, and each team is mentored by one of the PIs. Depending on the instructor’s objective and their plan of introducing Bayesian methods in their undergraduate curriculum, we expect some to develop a Bayesian module to be part of an existing course while others to develop a full Bayesian course as part of their curriculum offerings."
-  },
-  {
-    "objectID": "materials.html#funding",
-    "href": "materials.html#funding",
-    "title": "Course Materials Development (Tier 2)",
-    "section": "Funding",
-    "text": "Funding\nInstructors selected to participate in course material development will be compensated with $1,500 each for their time and effort."
-  },
-  {
-    "objectID": "materials.html#application",
-    "href": "materials.html#application",
-    "title": "Course Materials Development (Tier 2)",
-    "section": "Application",
-    "text": "Application\nAll participants to the BATS Bootcamp in Summer 2023 can apply to Tier 2 by submitting the Tier 2 Application form. The application closes on Friday July 21. If you submit multiple applications (accidentally, or because you made changes), the last application will be considered - if this is not desired, please contact Mine Dogucu at mdogucu@uci.edu."
-  },
-  {
     "objectID": "people.html",
     "href": "people.html",
     "title": "People",
@@ -96,5 +33,75 @@
     "title": "People",
     "section": "Graduate Student Researchers",
     "text": "Graduate Student Researchers\n\nFederica Zoe Ricci; PhD Student, University of California Irvine"
+  },
+  {
+    "objectID": "dissemination.html",
+    "href": "dissemination.html",
+    "title": "Dissemination",
+    "section": "",
+    "text": "We would like the teaching materials developed by BATS instructors to reach a wider audience beyond their own students. We would like these resources to be adopted by their colleagues in their STEM fields.\nWe expect to support about five instructors each year in writing pedagogical papers and/or giving conference talks within their scientific discipline community, introducing their developed materials as well as discussing Bayesian pedagogy.\nWe expect these efforts to be aimed at more pedagogy-focused channels such as journals and conferences focusing on science education.\nInstructors selected for the dissemination group will be supported with $2,000 each to disseminate their work at national conferences and/or with open-access publications."
+  },
+  {
+    "objectID": "bootcamp.html",
+    "href": "bootcamp.html",
+    "title": "Bootcamps",
+    "section": "",
+    "text": "Schedule: link\nGitHub organization: link\nDates: July 10 - 14, 2023\nLocation: University of California Irvine\nExpected number of participants: 20\nFunding: All bootcamp participants (20) will be supported with a stipend of $2,000 each to offset costs of traveling to and accommodation during the boot camp.\nApplication details: The application form can be accessed at this link. Applications are due February 15, 2023. Applications are only open to US citizens and permanent residents.\nQuestions can be addressed to Mine Dogucu at mdogucu@uci.edu."
+  },
+  {
+    "objectID": "bootcamp.html#bats-bootcamp-in-summer-2023",
+    "href": "bootcamp.html#bats-bootcamp-in-summer-2023",
+    "title": "Bootcamps",
+    "section": "",
+    "text": "Schedule: link\nGitHub organization: link\nDates: July 10 - 14, 2023\nLocation: University of California Irvine\nExpected number of participants: 20\nFunding: All bootcamp participants (20) will be supported with a stipend of $2,000 each to offset costs of traveling to and accommodation during the boot camp.\nApplication details: The application form can be accessed at this link. Applications are due February 15, 2023. Applications are only open to US citizens and permanent residents.\nQuestions can be addressed to Mine Dogucu at mdogucu@uci.edu."
+  },
+  {
+    "objectID": "bootcamp.html#bats-bootcamp-in-summer-2024",
+    "href": "bootcamp.html#bats-bootcamp-in-summer-2024",
+    "title": "Bootcamps",
+    "section": "BATS Bootcamp in Summer 2024",
+    "text": "BATS Bootcamp in Summer 2024\nDates: tentatively July 2024\nLocation: Vassar College, Poughkeepsie, NY\nExpected number of participants: 20\nApplication details: The application form will be shared here in early 2024"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bayes BATS",
+    "section": "",
+    "text": "Our goal is to advance Bayesian Thinking in STEM, hence the name BATS.\nBATS is a three-tiered program\n\nThe first tier of the program consists of a week-long instructor training bootcamp (on the west coast at University of California Irvine in Summer 2023, and on the east coast at Vassar College in Summer 2024), to build a diverse community of Bayesian educators across different STEM fields.\nIn the second tier of the project, selected instructors will develop Bayesian teaching and learning materials specifically using scientific data from their fields with the support of the PIs, during the fall semester after their summer boot camp training participation.\nIn the third tier of the project, selected instructors will disseminate the teaching and learning materials through conferences and publications with the support of the PIs.\n\n\nThe BATS Project Objectives are as follows:\n\nIncrease the number of undergraduate students who are exposed to Bayesian methods;\nEnhance the capacity of STEM instructors in Bayesian methods through training and community building;\nDevelop and enrich teaching and learning materials that showcase use of Bayesian methods in STEM fields.\n\n\nFunding\nBATS program is supported by NSF IUSE: EHR program with award numbers 2215879, 2215920, and 2215709."
+  },
+  {
+    "objectID": "materials.html",
+    "href": "materials.html",
+    "title": "Course Materials Development (Tier 2)",
+    "section": "",
+    "text": "About ten instructors who attend the bootcamp will be selected to develop course materials in the Fall semester. They will be engaged in a semester-long collaborative endeavor to develop teaching and learning materials of Bayesian methods for undergraduate students in their disciplines that are at public dissemination quality. Instructors of similar STEM disciplines will be teamed up, and each team is mentored by one of the PIs. Depending on the instructor’s objective and their plan of introducing Bayesian methods in their undergraduate curriculum, we expect some to develop a Bayesian module to be part of an existing course while others to develop a full Bayesian course as part of their curriculum offerings."
+  },
+  {
+    "objectID": "materials.html#description",
+    "href": "materials.html#description",
+    "title": "Course Materials Development (Tier 2)",
+    "section": "",
+    "text": "About ten instructors who attend the bootcamp will be selected to develop course materials in the Fall semester. They will be engaged in a semester-long collaborative endeavor to develop teaching and learning materials of Bayesian methods for undergraduate students in their disciplines that are at public dissemination quality. Instructors of similar STEM disciplines will be teamed up, and each team is mentored by one of the PIs. Depending on the instructor’s objective and their plan of introducing Bayesian methods in their undergraduate curriculum, we expect some to develop a Bayesian module to be part of an existing course while others to develop a full Bayesian course as part of their curriculum offerings."
+  },
+  {
+    "objectID": "materials.html#funding",
+    "href": "materials.html#funding",
+    "title": "Course Materials Development (Tier 2)",
+    "section": "Funding",
+    "text": "Funding\nInstructors selected to participate in course material development will be compensated with $1,500 each for their time and effort."
+  },
+  {
+    "objectID": "materials.html#application",
+    "href": "materials.html#application",
+    "title": "Course Materials Development (Tier 2)",
+    "section": "Application",
+    "text": "Application\nAll participants to the BATS Bootcamp in Summer 2023 can apply to Tier 2 by submitting the Tier 2 Application form. The application closes on Friday July 21. If you submit multiple applications (accidentally, or because you made changes), the last application will be considered - if this is not desired, please contact Mine Dogucu at mdogucu@uci.edu."
+  },
+  {
+    "objectID": "materials.html#schedule",
+    "href": "materials.html#schedule",
+    "title": "Course Materials Development (Tier 2)",
+    "section": "Schedule",
+    "text": "Schedule\nThe schedule of Tier 2 activities can be found at this link."
   }
 ]
