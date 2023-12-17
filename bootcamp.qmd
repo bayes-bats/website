@@ -2,6 +2,16 @@
 title: "Bootcamps"
 ---
 
+## BATS Bootcamp in Summer 2024
+
+**Dates**: tentatively July 15 - 19 2024
+
+**Location**: Vassar College, Poughkeepsie, NY
+
+**Expected number of participants**: 20
+
+**Application details**: The application form will be shared here in early 2024
+
 ## BATS Bootcamp in Summer 2023
 
 **Schedule:** [link](https://bayes-bats.github.io/bootcamp-material/)
@@ -22,12 +32,4 @@ title: "Bootcamps"
 
 ---
 
-## BATS Bootcamp in Summer 2024
 
-**Dates**: tentatively July 2024
-
-**Location**: Vassar College, Poughkeepsie, NY
-
-**Expected number of participants**: 20
-
-**Application details**: The application form will be shared here in early 2024

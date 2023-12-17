@@ -12,8 +12,10 @@ Instructors selected to participate in course material development will be compe
 
 ## Application
 
-All participants to the BATS Bootcamp in Summer 2023 can apply to Tier 2 by submitting the [Tier 2 Application form](https://duke.qualtrics.com/jfe/form/SV_bmvqDdmb5s0e8yq). The application closes on **Friday July 21**. If you submit multiple applications (accidentally, or because you made changes), the last application will be considered - if this is not desired, please contact Mine Dogucu at [mdogucu@uci.edu](mailto:mdogucu@uci.edu).
+All participants to the BATS Bootcamp in Summer 2024 will be apply to Tier 2 by an application. The application will be shared here at a later date. 
 
 ## Schedule
 
-The schedule of Tier 2 activities can be found at [this link](https://bayes-bats.github.io/tier2-schedule/).
+The schedule of Tier 2 activities will be shared at a later date.
+
+The schedule of Tier 2 activities for 2023 can be found at [this link](https://bayes-bats.github.io/tier2-schedule/).

@@ -19,7 +19,7 @@ title: "People"
 - Donatello Telesca; Professor of Biostatistics, University of California Los Angeles
 
 
-## Participating Faculty
+## Supporting Faculty
 
 - Ming-Wen An; Associate Professor of Mathematics and Statistics, Vassar 
 - Josh de Leeuw; Assistant Professor of Cognitive Science, Vassar 
@@ -38,4 +38,28 @@ title: "People"
 ## Graduate Student Researchers
 
 - [Federica Zoe Ricci](https://federicazoe.github.io/); PhD Student, University of California Irvine
+
+## Participating Faculty
+
+### 2023 Cohort
+
+17 faculty participated in the program. Below are names of some of our participants
+
+- Ian Clough, Associate Professor, Math, Computers, Geology & Physics Department, University of Cincinnati Clermont
+
+- Zachary del Rosario, Assistant Professor of Engineering and Applied Statistics, Olin College of Engineering
+
+- Katie FItzgerald, Department of Mathematics, Physics & Statistics, Azusa Pacific University
+
+- Luella Fu, Assistant Professor, Department of Mathematics, San Francisco State University
+
+- Hasan Hamdan, Professor and Chair of Statistics, James Madison University 
+
+- Stefani Langehennig, Assistant Professor of the Practice, Daniels College of Business, University of Denver
+ 
+- Jody Paul, Professor of Computer Science, Metropolitan State University of Denver
+
+- Samantha Seals, Department of Mathematics and Statistics, University of West Florida
+
+- Patricia Toledo Torres, Associate Professor of Economics, Ohio University
 

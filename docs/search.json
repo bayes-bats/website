@@ -21,11 +21,11 @@
     "text": "Advisory Board\n\nAndrew Gelman; Professor of Statistics and Political Science, Columbia University\nDonna LaLonde; Director Strategic Initiatives and Outreach, American Statistical Association\nRegina Nuzzo; Professor of Statistics, Gallaudet University\nDonatello Telesca; Professor of Biostatistics, University of California Los Angeles"
   },
   {
-    "objectID": "people.html#participating-faculty",
-    "href": "people.html#participating-faculty",
+    "objectID": "people.html#supporting-faculty",
+    "href": "people.html#supporting-faculty",
     "title": "People",
-    "section": "Participating Faculty",
-    "text": "Participating Faculty\n\nMing-Wen An; Associate Professor of Mathematics and Statistics, Vassar\nJosh de Leeuw; Assistant Professor of Cognitive Science, Vassar\nDavid Dunson; Professor of Statistical Science, Mathematics and Electrical & Computer Engineering, Duke University\nMatthew Harding; Professor of Economics and Statistics, UCI\nLee Kennedy-Shafer; Assistant Professor Mathematics and Statistics, Vassar\nColette Salyk; Assistant Professor of Astronomy, Vassar\nBabak Shahbaba; Professor of Statistics and Computer Science, UCI\nJoachim Vandekerckhove; Professor of Cognitive Sciences and Statistics, UCI\nAllison Horst; Assistant Teaching Professor, University of California Santa Barbara\nAlicia Johnson; Associate Professor of Statistics, Macalester College\nJoshua Rosenberg; Assistant Professor of STEM education, University of Tennessee\nUroš Seljak; Professor of Physics and Astronomy, University of California Berkeley\nXin (Cynthia) Tong; Associate Professor of Psychology, University of Virginia"
+    "section": "Supporting Faculty",
+    "text": "Supporting Faculty\n\nMing-Wen An; Associate Professor of Mathematics and Statistics, Vassar\nJosh de Leeuw; Assistant Professor of Cognitive Science, Vassar\nDavid Dunson; Professor of Statistical Science, Mathematics and Electrical & Computer Engineering, Duke University\nMatthew Harding; Professor of Economics and Statistics, UCI\nLee Kennedy-Shafer; Assistant Professor Mathematics and Statistics, Vassar\nColette Salyk; Assistant Professor of Astronomy, Vassar\nBabak Shahbaba; Professor of Statistics and Computer Science, UCI\nJoachim Vandekerckhove; Professor of Cognitive Sciences and Statistics, UCI\nAllison Horst; Assistant Teaching Professor, University of California Santa Barbara\nAlicia Johnson; Associate Professor of Statistics, Macalester College\nJoshua Rosenberg; Assistant Professor of STEM education, University of Tennessee\nUroš Seljak; Professor of Physics and Astronomy, University of California Berkeley\nXin (Cynthia) Tong; Associate Professor of Psychology, University of Virginia"
   },
   {
     "objectID": "people.html#graduate-student-researchers",
@@ -33,6 +33,13 @@
     "title": "People",
     "section": "Graduate Student Researchers",
     "text": "Graduate Student Researchers\n\nFederica Zoe Ricci; PhD Student, University of California Irvine"
+  },
+  {
+    "objectID": "people.html#participating-faculty",
+    "href": "people.html#participating-faculty",
+    "title": "People",
+    "section": "Participating Faculty",
+    "text": "Participating Faculty\n\n2023 Cohort\n17 faculty participated in the program. Below are names of some of our participants\n\nIan Clough, Associate Professor, Math, Computers, Geology & Physics Department, University of Cincinnati Clermont\nZachary del Rosario, Assistant Professor of Engineering and Applied Statistics, Olin College of Engineering\nKatie FItzgerald, Department of Mathematics, Physics & Statistics, Azusa Pacific University\nLuella Fu, Assistant Professor, Department of Mathematics, San Francisco State University\nHasan Hamdan, Professor and Chair of Statistics, James Madison University\nStefani Langehennig, Assistant Professor of the Practice, Daniels College of Business, University of Denver\nJody Paul, Professor of Computer Science, Metropolitan State University of Denver\nSamantha Seals, Department of Mathematics and Statistics, University of West Florida\nPatricia Toledo Torres, Associate Professor of Economics, Ohio University"
   },
   {
     "objectID": "dissemination.html",
@@ -46,21 +53,21 @@
     "href": "bootcamp.html",
     "title": "Bootcamps",
     "section": "",
-    "text": "Schedule: link\nGitHub organization: link\nDates: July 10 - 14, 2023\nLocation: University of California Irvine\nExpected number of participants: 20\nFunding: All bootcamp participants (20) will be supported with a stipend of $2,000 each to offset costs of traveling to and accommodation during the boot camp.\nApplication details: The application form can be accessed at this link. Applications are due February 15, 2023. Applications are only open to US citizens and permanent residents.\nQuestions can be addressed to Mine Dogucu at mdogucu@uci.edu."
-  },
-  {
-    "objectID": "bootcamp.html#bats-bootcamp-in-summer-2023",
-    "href": "bootcamp.html#bats-bootcamp-in-summer-2023",
-    "title": "Bootcamps",
-    "section": "",
-    "text": "Schedule: link\nGitHub organization: link\nDates: July 10 - 14, 2023\nLocation: University of California Irvine\nExpected number of participants: 20\nFunding: All bootcamp participants (20) will be supported with a stipend of $2,000 each to offset costs of traveling to and accommodation during the boot camp.\nApplication details: The application form can be accessed at this link. Applications are due February 15, 2023. Applications are only open to US citizens and permanent residents.\nQuestions can be addressed to Mine Dogucu at mdogucu@uci.edu."
+    "text": "Dates: tentatively July 15 - 19 2024\nLocation: Vassar College, Poughkeepsie, NY\nExpected number of participants: 20\nApplication details: The application form will be shared here in early 2024"
   },
   {
     "objectID": "bootcamp.html#bats-bootcamp-in-summer-2024",
     "href": "bootcamp.html#bats-bootcamp-in-summer-2024",
     "title": "Bootcamps",
-    "section": "BATS Bootcamp in Summer 2024",
-    "text": "BATS Bootcamp in Summer 2024\nDates: tentatively July 2024\nLocation: Vassar College, Poughkeepsie, NY\nExpected number of participants: 20\nApplication details: The application form will be shared here in early 2024"
+    "section": "",
+    "text": "Dates: tentatively July 15 - 19 2024\nLocation: Vassar College, Poughkeepsie, NY\nExpected number of participants: 20\nApplication details: The application form will be shared here in early 2024"
+  },
+  {
+    "objectID": "bootcamp.html#bats-bootcamp-in-summer-2023",
+    "href": "bootcamp.html#bats-bootcamp-in-summer-2023",
+    "title": "Bootcamps",
+    "section": "BATS Bootcamp in Summer 2023",
+    "text": "BATS Bootcamp in Summer 2023\nSchedule: link\nGitHub organization: link\nDates: July 10 - 14, 2023\nLocation: University of California Irvine\nExpected number of participants: 20\nFunding: All bootcamp participants (20) will be supported with a stipend of $2,000 each to offset costs of traveling to and accommodation during the boot camp.\nApplication details: The application form can be accessed at this link. Applications are due February 15, 2023. Applications are only open to US citizens and permanent residents.\nQuestions can be addressed to Mine Dogucu at mdogucu@uci.edu."
   },
   {
     "objectID": "index.html",
@@ -95,13 +102,13 @@
     "href": "materials.html#application",
     "title": "Course Materials Development (Tier 2)",
     "section": "Application",
-    "text": "Application\nAll participants to the BATS Bootcamp in Summer 2023 can apply to Tier 2 by submitting the Tier 2 Application form. The application closes on Friday July 21. If you submit multiple applications (accidentally, or because you made changes), the last application will be considered - if this is not desired, please contact Mine Dogucu at mdogucu@uci.edu."
+    "text": "Application\nAll participants to the BATS Bootcamp in Summer 2024 will be apply to Tier 2 by an application. The application will be shared here at a later date."
   },
   {
     "objectID": "materials.html#schedule",
     "href": "materials.html#schedule",
     "title": "Course Materials Development (Tier 2)",
     "section": "Schedule",
-    "text": "Schedule\nThe schedule of Tier 2 activities can be found at this link."
+    "text": "Schedule\nThe schedule of Tier 2 activities will be shared at a later date.\nThe schedule of Tier 2 activities for 2023 can be found at this link."
   }
 ]
