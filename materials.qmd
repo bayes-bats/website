@@ -19,3 +19,37 @@ All participants to the BATS Bootcamp in Summer 2024 will be apply to Tier 2 by 
 The schedule of Tier 2 activities will be shared at a later date.
 
 The schedule of Tier 2 activities for 2023 can be found at [this link](https://bayes-bats.github.io/tier2-schedule/).
+
+## Example Course Materials
+
+The following are teaching materials that former Tier 2 participants have developed. More will be shared.
+
+
+<table class="table table-bordered">
+
+<thead>
+<td> Project Title</td>
+<td> Project Participants</td>
+<td> Materials</td>
+
+</thead>
+
+  <tr>
+  
+  <td> Surprise!---They're Different &nbsp; </td>
+    <td>
+    Zachary del Rosario <br>
+    Stefani Langehennig  &nbsp;
+    </td>
+    
+    <td>
+    
+   [{{< fa brands github >}}](https://github.com/bayes-bats/tier2-freq-bayes)
+ [{{< fa video >}}](https://www.youtube.com/watch?v=dwNLcFqQqnE)
+    </td>
+</td>
+  </tr>
+
+</table>
+
+<link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
