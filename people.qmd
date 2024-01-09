@@ -43,25 +43,33 @@ title: "People"
 
 ### 2023 Cohort
 
-17 faculty participated in the program. Below are names of some of our participants
+17 faculty participated in the program. Below are names of some of our participants.
+
+- Abraham Ayebo, Associate Professor, Center for Learning Innovation, University of Minnesota
 
 - Ian Clough, Associate Professor, Math, Computers, Geology & Physics Department, University of Cincinnati Clermont
 
 - Zachary del Rosario, Assistant Professor of Engineering and Applied Statistics, Olin College of Engineering
 
-- Angela Ebeling, Professor, Biology Department, Wisconsin Lutheran College
+- Angela Ebeling, Professor, Department of Biology, Wisconsin Lutheran College
 
-- Katie Fitzgerald, Department of Mathematics, Physics & Statistics, Azusa Pacific University
+- Katie Fitzgerald, Assistant Professor, Department of Mathematics, Physics & Statistics, Azusa Pacific University
 
 - Luella Fu, Assistant Professor, Department of Mathematics, San Francisco State University
 
+- Olga Glebova, Associate Professor, Department of Computer Science, University of Connecticut
+
 - Hasan Hamdan, Professor and Chair of Statistics, James Madison University 
+
+- Coby Klein, Lecturer, Department of Biological Sciences, SUNY Old Westbury
 
 - Stefani Langehennig, Assistant Professor of the Practice, Daniels College of Business, University of Denver
  
 - Jody Paul, Professor of Computer Science, Metropolitan State University of Denver
 
-- Samantha Seals, Department of Mathematics and Statistics, University of West Florida
+- Samantha Seals, Associate Professor, Department of Mathematics and Statistics, University of West Florida
 
-- Patricia Toledo Torres, Associate Professor of Economics, Ohio University
+- Toni Sorrell, Associate Professor, Department of Mathematics & Computer Science, Longwood University
+
+- Patricia Toledo, Associate Professor, Department of Economics, Ohio University
 

@@ -1,5 +1,5 @@
 ---
-title: "Bootcamps"
+title: "Bootcamps (Tier 1)"
 ---
 
 ## BATS Bootcamp in Summer 2024
@@ -10,7 +10,11 @@ title: "Bootcamps"
 
 **Expected number of participants**: 20
 
-**Application details**: The application form will be shared here in early 2024
+**Funding**: All bootcamp participants (20) will be supported with a stipend of $2,000 each to offset costs of traveling to and accommodation during the bootcamp.
+
+**Application details**: The application form will be shared here in early 2024.
+
+**Questions** can be addressed to Monika Hu at [jihu@vassar.edu](mailto:jihu@vassar.edu).
 
 ## BATS Bootcamp in Summer 2023
 
@@ -24,7 +28,7 @@ title: "Bootcamps"
 
 **Expected number of participants**: 20
 
-**Funding**: All bootcamp participants (20) will be supported with a stipend of $2,000 each to offset costs of traveling to and accommodation during the boot camp.
+**Funding**: All bootcamp participants (20) will be supported with a stipend of $2,000 each to offset costs of traveling to and accommodation during the bootcamp.
 
 **Application details**: The application form can be accessed at [this link](https://duke.qualtrics.com/jfe/form/SV_2sDimvyrSaeAl1A). Applications are due **February 15, 2023**. Applications are only open to US citizens and permanent residents.
 
