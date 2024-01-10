@@ -12,13 +12,11 @@ Instructors selected to participate in course material development will be compe
 
 ## Application
 
-All participants to the BATS Bootcamp in Summer 2024 will be apply to Tier 2 by an application. The application will be shared here at a later date. 
+All participants in the BATS Bootcamp in Summer 2024 are eligible to apply to Tier 2 by an application. The application will be shared here at a later date. 
 
 ## Schedule
 
-The schedule of Tier 2 activities will be shared at a later date.
-
-The schedule of Tier 2 activities for 2023 can be found at [this link](https://bayes-bats.github.io/tier2-schedule/).
+The schedule of Tier 2 activities for the 2023 cohort can be found at [this link](https://bayes-bats.github.io/tier2-schedule/).
 
 ## Example Course Materials
 
