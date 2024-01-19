@@ -47,6 +47,25 @@ The following are teaching materials that former Tier 2 participants have develo
     </td>
 </td>
   </tr>
+  
+<tr>
+  
+  <td> POGIL-style activities:
+Introductions to Bayesian Statistics &nbsp; </td>
+    <td>
+    Olga Glebova <br>
+    Kaitlyn Fitzgerald  &nbsp; <br>
+    Angela Ebeling
+    </td>
+    
+    <td>
+    
+   [{{< fa folder >}}](Google Drive folder)
+ [{{< fa video >}}](https://urldefense.com/v3/__https://drive.google.com/file/d/1g3VLUrxF4Y_S8IDu9BrWvIt3VJI5wR-n/view?usp=sharing__;!!CzAuKJ42GuquVTTmVmPViYEvSg!LSWPSJol80NXTPLLVrWKrBBi1C6bvGH8In6gd1SJpQCuGJqyTDAEwJpzzwKcbQ3z-c1D7UiJvupb4qt0hJAS$)
+    </td>
+</td>
+  </tr>
+
 
 </table>
 
