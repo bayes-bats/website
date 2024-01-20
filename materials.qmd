@@ -60,7 +60,7 @@ Introductions to Bayesian Statistics &nbsp; </td>
     
     <td>
     
-   [{{< fa folder >}}](Google Drive folder)
+   [{{< fa folder >}}](https://drive.google.com/drive/folders/1gFeNNysCFKF2yTehxUSu-pzq-iaCx44f?usp=sharing)
  [{{< fa video >}}](https://urldefense.com/v3/__https://drive.google.com/file/d/1g3VLUrxF4Y_S8IDu9BrWvIt3VJI5wR-n/view?usp=sharing__;!!CzAuKJ42GuquVTTmVmPViYEvSg!LSWPSJol80NXTPLLVrWKrBBi1C6bvGH8In6gd1SJpQCuGJqyTDAEwJpzzwKcbQ3z-c1D7UiJvupb4qt0hJAS$)
     </td>
 </td>
