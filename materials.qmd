@@ -66,7 +66,23 @@ Introductions to Bayesian Statistics &nbsp; </td>
 </td>
   </tr>
 
-
+<tr>
+  
+  <td> Bayesian Thinking: Course Materials for Bayesian Topics &nbsp; </td>
+    <td>
+    Abraham Ayebo <br>
+    Samantha Seals <br>
+    Toni Sorrell &nbsp;
+    </td>
+    
+    <td>
+    
+   [{{< fa link >}}](https://bayes-thinking.github.io/website/)
+ [{{< fa video >}}](https://drive.google.com/file/d/1Rw4orsrz2-U4aHxjGSPvqga-0dMrFvJd/view?usp=sharing)
+    </td>
+</td>
+  </tr>
+  
 </table>
 
 <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
