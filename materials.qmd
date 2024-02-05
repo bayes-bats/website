@@ -20,7 +20,7 @@ The schedule of Tier 2 activities for the 2023 cohort can be found at [this link
 
 ## Example Course Materials
 
-The following are teaching materials that former Tier 2 participants have developed. More will be shared.
+The following are some of the teaching materials that former Tier 2 participants have developed. 
 
 
 <table class="table table-bordered">
@@ -79,6 +79,21 @@ Introductions to Bayesian Statistics &nbsp; </td>
     
    [{{< fa link >}}](https://bayes-thinking.github.io/website/)
  [{{< fa video >}}](https://drive.google.com/file/d/1Rw4orsrz2-U4aHxjGSPvqga-0dMrFvJd/view?usp=sharing)
+    </td>
+</td>
+  </tr>
+  
+<tr>
+  
+  <td> Introducing Frequentist and Bayesian Methods in Parallel in an
+Undergraduate Economics Statistics Course &nbsp; </td>
+    <td>
+    Patricia Toledo &nbsp;
+    </td>
+    
+    <td>
+    
+   [{{< fa link >}}](https://drive.google.com/file/d/1uv8pQFa_OUI-wjKQpiXN1N9phYhiaH8L/view?usp=sharing)
     </td>
 </td>
   </tr>
