@@ -94,6 +94,7 @@ Undergraduate Economics Statistics Course &nbsp; </td>
     <td>
     
    [{{< fa link >}}](https://drive.google.com/file/d/1uv8pQFa_OUI-wjKQpiXN1N9phYhiaH8L/view?usp=sharing)
+   [{{< fa video >}}](https://drive.google.com/file/d/1nCOIMgj9Tn5lTjc0KPMZq3jWpoyROebV/view?usp=sharing)
     </td>
 </td>
   </tr>
