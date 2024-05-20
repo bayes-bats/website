@@ -1,0 +1,8 @@
+---
+title: "Shaping Tomorrow’s Innovators: integrating Bayesian Concepts into Stem Pedagogy"
+author: "Drs. Toni Sorell, Samantha Seals, Abaraham, Ayaebo"
+---
+
+## Abstract
+
+A Bayesian statistical framework offers adaptability, allowing scientists to dynamically refine their beliefs as new data emerges; unlike the frequentist framework, which disregards prior beliefs or data. We advocate the early integration of Bayesian concepts in the STEM curriculum. This will equip students with practical tools applicable to diverse fields and encourage flexibility in statistical reasoning. To aid educators in implementing this paradigm, we provide access to an Open Educational Resource (OER) website with interactive lesson plans, examples from various disciplines, and project-based learning activities for use in any STEM classroom. These materials were developed as part of Bayes BATS funded by NSF awards 2215879, 2215920, and 2215709.

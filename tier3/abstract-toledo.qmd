@@ -1,0 +1,8 @@
+---
+title: "Introducing Frequentist and Bayesian Methods in Parallel in an Undergraduate Economics Statistics Course"
+author: "Dr. Patricia Toledo"
+---
+
+## Abstract
+
+In recent decades there has been growth in use of Bayesian methods in research setting in academia and industry. There has also been growth in teaching of Bayesian methods in the classroom, however this growth has been at a much slower pace than in research. Prior educational research has shown that most of the training at the undergraduate level takes place in statistics, math, and data science programs. However, training in Bayesian methods is needed across all scientific disciplines (e.g., psychology, economy, life sciences). In this talk, I will give an overview of a training program called Bayes BATS, designed for instructors who teach in a wide range of disciplines in institutions across the United States. The goal of the program is to enable instructors to introduce Bayesian methods in their curriculum. We will share activities and resources from the program that are available open-access. 

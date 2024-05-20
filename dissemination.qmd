@@ -9,3 +9,22 @@ We expect to support about five instructors each year in writing pedagogical pap
 We expect these efforts to be aimed at more pedagogy-focused channels such as journals and conferences focusing on science education. 
 
 Instructors selected for the dissemination group will be supported with $2,000 each to disseminate their work at national conferences and/or with open-access publications.
+
+## 2023 Tier 3 Cohort Dissemination News
+
+Table last updated on 2024-05-20.
+
+| Date | Name | Title | Venue |  Links |
+|------|------|-------|-------|-------|
+| 2024-03-01 |Toni Sorrell|Shaping Tomorrow's Innovators: Integrating Bayesian Concepts into STEM Pedagogy|Virginia Association of Mathematics Teacher Educators (VA-AMTE)|  [{{< fa note-sticky >}}](tier3/abstract-sorrell.html)    |
+|2024-04-06| Stefani Langehennig | Surprise-They’re Different! Comparing Frequentist and Bayesian Approaches in Public Policy |Midwest Political Science Association Conference |[{{< fa desktop >}}](tier3/slides-langehennig.html)|
+|2024-05-15| Stefani Langehennig | Comparing Frequentist and Bayesian Approaches in Policy Learning | Conference on Policy Process Research ||
+|2024-05-30|Patricia Toledo | Introducing Frequentist and Bayesian Methods in Parallel in an Undergraduate Economics Statistics Course | The Thirteenth Annual AEA Conference on Teaching and Research in Economic Education (CTREE) | |
+|TBD 2024-07-01 - 2024-07-07| Patricia Toledo | Introducing Frequentist and Bayesian Methods in Parallel in an Undergraduate Economics Statistics Course | International Society for Bayesian Analysis World Meeting |   [{{< fa note-sticky >}}](tier3/abstract-toledo.html)|
+|2024-08-04|Samantha Seals |Embracing Bayesian Statistics in the Modern Classroom | Joint Statistical Meetings| |
+|2024-08-04| Kaitlyn Fitzgerald |Inquiry Based Learning activities for teaching Bayesian statistics|Joint Statistical Meetings ||
+|2024-08-04|Patricia Toledo |Introducing Frequentist and Bayesian Methods in Parallel in an Undergraduate Economics Statistics Course|Joint Statistical Meetings||
+|2024-08-04|Zachary del Rosario|Surprise—they're different! An introductory statistics activity to highlight differences between Frequentist and Bayesian statistics| Joint Statistical Meetings ||
+
+
+
