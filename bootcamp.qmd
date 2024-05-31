@@ -4,6 +4,10 @@ title: "Bootcamps (Tier 1)"
 
 ## BATS Bootcamp in Summer 2024
 
+**Schedule:** [link](https://bayes-bats.github.io/bootcamp-materials-2024/)
+
+**GitHub organization:** [link](https://github.com/bayes-bats)
+
 **Dates**: July 15 - 19, 2024
 
 **Location**: Vassar College, Poughkeepsie, NY
@@ -18,7 +22,7 @@ title: "Bootcamps (Tier 1)"
 
 ## BATS Bootcamp in Summer 2023
 
-**Schedule:** [link](https://bayes-bats.github.io/bootcamp-material/)
+**Schedule:** [link](https://bayes-bats.github.io/bootcamp-materials-2023/)
 
 **GitHub organization:** [link](https://github.com/bayes-bats)
 
