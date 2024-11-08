@@ -20,6 +20,7 @@ Table last updated on 2024-05-20.
 |2024-04-06| Stefani Langehennig | Surprise-They’re Different! Comparing Frequentist and Bayesian Approaches in Public Policy |Midwest Political Science Association Conference |[{{< fa desktop >}}](tier3/slides-langehennig.html)|
 |2024-05-15| Stefani Langehennig | Comparing Frequentist and Bayesian Approaches in Policy Learning | Conference on Policy Process Research ||
 |2024-05-30|Patricia Toledo | Introducing Frequentist and Bayesian Methods in Parallel in an Undergraduate Economics Statistics Course | The Thirteenth Annual AEA Conference on Teaching and Research in Economic Education (CTREE) | |
+|2024-06-12|Angela Ebeling | POGIL-style Activities Introducing Students to Bayes Theorem| Electronic Conference on Teaching Statistics |[{{< fa video >}}](https://www.causeweb.org/cause/ecots/ecots24/program/posters/6) |
 |TBD 2024-07-01 - 2024-07-07| Patricia Toledo | Introducing Frequentist and Bayesian Methods in Parallel in an Undergraduate Economics Statistics Course | International Society for Bayesian Analysis World Meeting |   [{{< fa note-sticky >}}](tier3/abstract-toledo.html)|
 |2024-08-04|Samantha Seals |Embracing Bayesian Statistics in the Modern Classroom | Joint Statistical Meetings| |
 |2024-08-04| Kaitlyn Fitzgerald |Inquiry Based Learning activities for teaching Bayesian statistics|Joint Statistical Meetings ||
