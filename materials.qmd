@@ -12,20 +12,21 @@ Instructors selected to participate in course material development will be compe
 
 ## Application
 
-All participants in the BATS Bootcamp in Summer 2024 are eligible to apply to Tier 2 by an application. The application will be shared here at a later date. 
+All participants in the BATS Bootcamp in Summer 2024 are eligible to apply to Tier 2 by an application. The application is closed.
 
 ## Schedule
 
-The schedule of Tier 2 activities for the 2023 cohort can be found at [this link](https://bayes-bats.github.io/tier2-schedule/).
+The schedule of Tier 2 activities for the 2024 cohort can be found at [this link](https://bayes-bats.github.io/tier2-schedule-2024/).
 
 ## Example Course Materials
 
-The following are some of the teaching materials that former Tier 2 participants have developed. 
+The following are some of the teaching materials that Bayes BATS participants have developed. 
 
 
 <table class="table table-bordered">
 
 <thead>
+<td> Project Cohort</td>
 <td> Project Title</td>
 <td> Project Participants</td>
 <td> Materials</td>
@@ -33,7 +34,7 @@ The following are some of the teaching materials that former Tier 2 participants
 </thead>
 
   <tr>
-  
+  <td> 2023 </td>
   <td> Surprise!---They're Different &nbsp; </td>
     <td>
     Zachary del Rosario <br>
@@ -48,10 +49,10 @@ The following are some of the teaching materials that former Tier 2 participants
 </td>
   </tr>
   
-<tr>
-  
+  <tr>
+  <td> 2023 </td>
   <td> POGIL-style activities:
-Introductions to Bayesian Statistics &nbsp; </td>
+  Introductions to Bayesian Statistics &nbsp; </td>
     <td>
     Olga Glebova <br>
     Kaitlyn Fitzgerald  &nbsp; <br>
@@ -66,8 +67,8 @@ Introductions to Bayesian Statistics &nbsp; </td>
 </td>
   </tr>
 
-<tr>
-  
+  <tr>
+  <td> 2023 </td>
   <td> Bayesian Thinking: Course Materials for Bayesian Topics &nbsp; </td>
     <td>
     Abraham Ayebo <br>
@@ -83,8 +84,8 @@ Introductions to Bayesian Statistics &nbsp; </td>
 </td>
   </tr>
   
-<tr>
-  
+  <tr>
+  <td> 2023 </td>
   <td> Introducing Frequentist and Bayesian Methods in Parallel in an
 Undergraduate Economics Statistics Course &nbsp; </td>
     <td>
@@ -98,6 +99,8 @@ Undergraduate Economics Statistics Course &nbsp; </td>
     </td>
 </td>
   </tr>
+  
+  
   
 </table>
 
