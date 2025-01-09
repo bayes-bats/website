@@ -55,7 +55,7 @@ The following are some of the teaching materials that Bayes BATS participants ha
   Introductions to Bayesian Statistics &nbsp; </td>
     <td>
     Olga Glebova <br>
-    Kaitlyn Fitzgerald  &nbsp; <br>
+    Kaitlyn Fitzgerald  &nbsp;
     Angela Ebeling
     </td>
     
@@ -115,6 +115,70 @@ Undergraduate Economics Statistics Course &nbsp; </td>
     </td>
 </td>
   </tr>
+  
+   <tr>
+  <td> 2024 </td>
+  <td> Bayesian Thinking in BSMEs &nbsp; </td>
+    <td>
+    Tom Keenan &nbsp;
+    </td>
+    
+    <td>
+    
+   [{{< fa link >}}](https://www.dropbox.com/scl/fi/b9xgs2w3qnd5km53kj6wi/Bayesian-Thinking-for-BSMEs-Final-Progress-Report.pdf?rlkey=brsdiqn7y305qp60s09aamoox&st=yndrj58m&dl=0)
+ [{{< fa video >}}](https://www.dropbox.com/scl/fi/d4juxctmsea58jfqs8tfz/Bayesian-Thinking-for-BSMEs-Final-Report.mp4?rlkey=dxmwuivsbhv16rtos975edj2z&st=w997s7fj&dl=0)
+    </td>
+</td>
+  </tr>
+  
+  
+  <tr>
+  <td> 2024 </td>
+  <td> TBD &nbsp; </td>
+    <td>
+    Adam Scharfenberger &nbsp;
+    </td>
+    
+    <td>
+   [{{< fa folder >}}](https://drive.google.com/drive/folders/1mUVw9ECx260iBaUW1z8qABOoYqWDM2kP?usp=sharing)
+   [{{< fa video >}}](https://drive.google.com/file/d/1OKRe-RhVw0s6S8GtNArqBkIB-ETy36TL/view?usp=sharing)
+    </td>
+</td>
+  </tr>
+  
+  
+  <tr>
+  <td> 2024 </td>
+  <td> Introduction to Statistical Storytelling: A 1-Week Module in Bayesian Thinking &nbsp; </td>
+    <td>
+    Christopher Wolfe &nbsp;
+    </td>
+    
+    <td>
+    
+   [{{< fa brands github >}}](https://github.com/bayes-bats/tier2-anthro)
+    [{{< fa video >}}](https://ecu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c7d6204a-9ea6-4e49-a2da-b24300fde86d)
+    </td>
+</td>
+  </tr>
+  
+  
+  <tr>
+  <td> 2024 </td>
+  <td> A Gentle Introduction to Probability and Bayesian Statistics &nbsp; </td>
+    <td>
+    Laurie Baker <br>
+    Jim Scott  &nbsp;
+    </td>
+    
+    <td>
+    
+   [{{< fa brands github >}}](https://bayes-bats.github.io/tier2-short-term/)
+ [{{< fa video >}}](https://www.dropbox.com/s/9oqg1lqhja3p7jm/bayes-bats.mp4?st=0gcuuf97&dl=0)
+    </td>
+</td>
+  </tr>
+  
   
 </table>
 
