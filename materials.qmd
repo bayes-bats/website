@@ -100,7 +100,21 @@ Undergraduate Economics Statistics Course &nbsp; </td>
 </td>
   </tr>
   
-  
+  <tr>
+  <td> 2024 </td>
+  <td> Introductory Bayes In Context &nbsp; </td>
+    <td>
+    Adam Gilbert <br>
+    Laura Lambert  &nbsp;
+    </td>
+    
+    <td>
+    
+   [{{< fa link >}}](https://agmath.github.io/IntroductoryBayesInContext/)
+ [{{< fa video >}}](https://www.youtube.com/watch?v=3-1gnfEkUXA)
+    </td>
+</td>
+  </tr>
   
 </table>
 
