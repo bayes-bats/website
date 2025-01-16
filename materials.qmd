@@ -134,7 +134,7 @@ Undergraduate Economics Statistics Course &nbsp; </td>
   
   <tr>
   <td> 2024 </td>
-  <td> TBD &nbsp; </td>
+  <td> An Introduction to Expressing and Updating Beliefs (No Programming Required &nbsp; </td>
     <td>
     Adam Scharfenberger &nbsp;
     </td>
