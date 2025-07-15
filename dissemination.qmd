@@ -10,7 +10,13 @@ We expect these efforts to be aimed at more pedagogy-focused channels such as jo
 
 Instructors selected for the dissemination group will be supported with $2,000 each to disseminate their work at national conferences and/or with open-access publications.
 
-## Tier 3 - 2023 Cohort Dissemination News
+# Tier 3 - Dissemination News
+
+## Publications
+
+[Langehennig, S., del Rosario, Z., & Dogucu, M. Surprise, They’re Different! Comparing Frequentist and Bayesian Instructional Approaches in Political Science and Public Policy Classrooms. Political Science Educator. 29(1)](https://educate.apsanet.org/surprise-theyre-different-comparing-frequentist-and-bayesian-instructional-approaches-in-political-science-and-public-policy-classrooms)
+
+## Presentations
 
 Table last updated on 2024-05-20.
 
@@ -28,4 +34,10 @@ Table last updated on 2024-05-20.
 |2024-08-04|Zachary del Rosario|Surprise—they're different! An introductory statistics activity to highlight differences between Frequentist and Bayesian statistics| Joint Statistical Meetings ||
 
 
+## Other BATS related Publications
 
+[Kejzlar, V., & Hu, J. (2023). Introducing Variational Inference in Statistics and Data Science Curriculum. The American Statistician, 78(3), 359–367. https://doi.org/10.1080/00031305.2023.2232006](https://www.tandfonline.com/doi/citedby/10.1080/00031305.2023.2232006?scroll=top&needAccess=true)
+
+[Dogucu, M., Kazak, S. & Rosenberg, J. (2025) The Design and Implementation of a Bayesian Data Analysis Lesson for Pre-Service Mathematics and Science Teachers. Journal of Statistics and Data Science Education. 33(2), 177-188.](https://www.tandfonline.com/doi/full/10.1080/26939169.2024.2362148)
+
+[Dogucu, M., Hu, J., & Herring, A. H. (2025). Statisticians Training STEM Educators in Statistics Methods and Pedagogy: A Case Study of Instructor Training in Bayesian Methods. arXiv preprint arXiv:2505.02298.](https://arxiv.org/abs/2505.02298)
