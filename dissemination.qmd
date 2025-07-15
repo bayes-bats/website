@@ -34,6 +34,8 @@ Table last updated on 2024-05-20.
 |2024-08-04| Kaitlyn Fitzgerald |Inquiry Based Learning activities for teaching Bayesian statistics|Joint Statistical Meetings ||
 |2024-08-04|Patricia Toledo |Introducing Frequentist and Bayesian Methods in Parallel in an Undergraduate Economics Statistics Course|Joint Statistical Meetings||
 |2024-08-04|Zachary del Rosario|Surprise—they're different! An introductory statistics activity to highlight differences between Frequentist and Bayesian statistics| Joint Statistical Meetings ||
+|2025-07-18|Zach del Rosario|Surprise—they’re different! An introductory statistics activity to highlight differences between Frequentist and Bayesian statistics|United States Conference on Teaching Statistics|[{{< fa note-sticky >}}](https://www.causeweb.org/cause/uscots/uscots25/program/posters/poster10)|
+
 
 
 ## Other BATS related Publications
