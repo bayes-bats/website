@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.39">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,10 +35,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-6bd9cfa162949bde0a231f530c97869d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -194,7 +194,7 @@ ul.task-list li input[type="checkbox"] {
 <td>Stefani Langehennig</td>
 <td>Surprise-They’re Different! Comparing Frequentist and Bayesian Approaches in Public Policy</td>
 <td>Midwest Political Science Association Conference</td>
-<td><a href="tier3/slides-langehennig.html"><i class="fa-solid fa-desktop" aria-label="desktop"></i></a></td>
+<td><a href="tier3/slides-langehennig.pdf"><i class="fa-solid fa-desktop" aria-label="desktop"></i></a></td>
 </tr>
 <tr class="odd">
 <td>2024-05-15</td>
@@ -258,6 +258,13 @@ ul.task-list li input[type="checkbox"] {
 <td>Surprise—they’re different! An introductory statistics activity to highlight differences between Frequentist and Bayesian statistics</td>
 <td>United States Conference on Teaching Statistics</td>
 <td><a href="https://www.causeweb.org/cause/uscots/uscots25/program/posters/poster10"><i class="fa-solid fa-note-sticky" aria-label="note-sticky"></i></a></td>
+</tr>
+<tr class="even">
+<td>2026-04-10</td>
+<td>Eric Hernandez</td>
+<td>Bayesian vs Frequentist Decision Frameworks Connections via LDA, Neyman–Pearson, and Logistic Regression</td>
+<td>Mathematics Retreat, Miami Dade College</td>
+<td><a href="tier3/slides-hernandez.pdf"><i class="fa-solid fa-desktop" aria-label="desktop"></i></a></td>
 </tr>
 </tbody>
 </table>
@@ -355,6 +362,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -465,6 +474,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
+      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

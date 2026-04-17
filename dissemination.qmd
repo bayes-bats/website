@@ -25,7 +25,7 @@ Table last updated on 2024-05-20.
 | Date | Name | Title | Venue |  Links |
 |------|------|-------|-------|-------|
 | 2024-03-01 |Toni Sorrell|Shaping Tomorrow's Innovators: Integrating Bayesian Concepts into STEM Pedagogy|Virginia Association of Mathematics Teacher Educators (VA-AMTE)|  [{{< fa note-sticky >}}](tier3/abstract-sorrell.html)    |
-|2024-04-06| Stefani Langehennig | Surprise-They’re Different! Comparing Frequentist and Bayesian Approaches in Public Policy |Midwest Political Science Association Conference |[{{< fa desktop >}}](tier3/slides-langehennig.html)|
+|2024-04-06| Stefani Langehennig | Surprise-They’re Different! Comparing Frequentist and Bayesian Approaches in Public Policy |Midwest Political Science Association Conference |[{{< fa desktop >}}](tier3/slides-langehennig.pdf)|
 |2024-05-15| Stefani Langehennig | Comparing Frequentist and Bayesian Approaches in Policy Learning | Conference on Policy Process Research ||
 |2024-05-30|Patricia Toledo | Introducing Frequentist and Bayesian Methods in Parallel in an Undergraduate Economics Statistics Course | The Thirteenth Annual AEA Conference on Teaching and Research in Economic Education (CTREE) | |
 |2024-06-12|Angela Ebeling | POGIL-style Activities Introducing Students to Bayes Theorem| Electronic Conference on Teaching Statistics |[{{< fa video >}}](https://www.causeweb.org/cause/ecots/ecots24/program/posters/6) |
@@ -35,6 +35,7 @@ Table last updated on 2024-05-20.
 |2024-08-04|Patricia Toledo |Introducing Frequentist and Bayesian Methods in Parallel in an Undergraduate Economics Statistics Course|Joint Statistical Meetings||
 |2024-08-04|Zachary del Rosario|Surprise—they're different! An introductory statistics activity to highlight differences between Frequentist and Bayesian statistics| Joint Statistical Meetings ||
 |2025-07-18|Zach del Rosario|Surprise—they’re different! An introductory statistics activity to highlight differences between Frequentist and Bayesian statistics|United States Conference on Teaching Statistics|[{{< fa note-sticky >}}](https://www.causeweb.org/cause/uscots/uscots25/program/posters/poster10)|
+|2026-04-10| Eric Hernandez | Bayesian vs Frequentist Decision Frameworks Connections via LDA, Neyman–Pearson, and Logistic Regression|Mathematics Retreat, Miami Dade College|[{{< fa desktop >}}](tier3/slides-hernandez.pdf)|
 
 
 
